@@ -1,0 +1,101 @@
+_id,index,Unnamed: 0,Codigo_UF,Municipios,Estado,uf
+649cbab755516ad2537db85a,93,2732,17,Araguacema,Tocantins,TO
+649cbab755516ad2537db85b,94,2731,17,Aragominas,Tocantins,TO
+649cbab755516ad2537db85c,95,2730,17,Aparecida do Rio Negro,Tocantins,TO
+649cbab755516ad2537db85d,96,2729,17,Angico,Tocantins,TO
+649cbab755516ad2537db85e,97,2728,17,Ananás,Tocantins,TO
+649cbab755516ad2537db85f,98,2727,17,Alvorada,Tocantins,TO
+649cbab755516ad2537db860,99,2726,17,Almas,Tocantins,TO
+649cbab755516ad2537db861,100,2725,17,Aliança do Tocantins,Tocantins,TO
+649cbab755516ad2537db862,101,2739,17,Augustinópolis,Tocantins,TO
+649cbab755516ad2537db863,102,2756,17,Caseara,Tocantins,TO
+649cbab755516ad2537db864,103,2757,17,Centenário,Tocantins,TO
+649cbab755516ad2537db865,104,2758,17,Chapada da Natividade,Tocantins,TO
+649cbab755516ad2537db866,105,2853,17,Taguatinga,Tocantins,TO
+649cbab755516ad2537db867,106,2854,17,Taipas do Tocantins,Tocantins,TO
+649cbab755516ad2537db868,107,2855,17,Talismã,Tocantins,TO
+649cbab755516ad2537db869,108,2856,17,Tocantínia,Tocantins,TO
+649cbab755516ad2537db86a,109,2857,17,Tocantinópolis,Tocantins,TO
+649cbab755516ad2537db86b,110,2858,17,Tupirama,Tocantins,TO
+649cbab755516ad2537db86c,111,2859,17,Tupiratins,Tocantins,TO
+649cbab755516ad2537db86d,112,2860,17,Wanderlândia,Tocantins,TO
+649cbab755516ad2537db86e,113,2861,17,Xambioá,Tocantins,TO
+649cbab755516ad2537db86f,114,2780,17,Guaraí,Tocantins,TO
+649cbab755516ad2537db870,115,2779,17,Goiatins,Tocantins,TO
+649cbab755516ad2537db871,116,2778,17,Goianorte,Tocantins,TO
+649cbab755516ad2537db872,117,2777,17,Fortaleza do Tabocão,Tocantins,TO
+649cbab755516ad2537db873,118,2776,17,Formoso do Araguaia,Tocantins,TO
+649cbab755516ad2537db874,119,2775,17,Filadélfia,Tocantins,TO
+649cbab755516ad2537db875,120,2774,17,Figueirópolis,Tocantins,TO
+649cbab755516ad2537db876,121,2773,17,Fátima,Tocantins,TO
+649cbab755516ad2537db877,122,2759,17,Chapada de Areia,Tocantins,TO
+649cbab755516ad2537db878,123,2760,17,Colinas do Tocantins,Tocantins,TO
+649cbab755516ad2537db879,124,2761,17,Colméia,Tocantins,TO
+649cbab755516ad2537db87a,125,2762,17,Combinado,Tocantins,TO
+649cbab755516ad2537db87b,126,2763,17,Conceição do Tocantins,Tocantins,TO
+649cbab755516ad2537db87c,127,2764,17,Couto Magalhães,Tocantins,TO
+649cbab755516ad2537db87d,128,2851,17,Sítio Novo do Tocantins,Tocantins,TO
+649cbab755516ad2537db87e,129,2765,17,Cristalândia,Tocantins,TO
+649cbab755516ad2537db87f,130,2767,17,Darcinópolis,Tocantins,TO
+649cbab755516ad2537db880,131,2768,17,Dianópolis,Tocantins,TO
+649cbab755516ad2537db881,132,2769,17,Divinópolis do Tocantins,Tocantins,TO
+649cbab755516ad2537db882,133,2770,17,Dois Irmãos do Tocantins,Tocantins,TO
+649cbab755516ad2537db883,134,2771,17,Dueré,Tocantins,TO
+649cbab755516ad2537db884,135,2772,17,Esperantina,Tocantins,TO
+649cbab755516ad2537db885,136,2766,17,Crixás do Tocantins,Tocantins,TO
+649cbab755516ad2537db886,137,2733,17,Araguaçu,Tocantins,TO
+649cbab755516ad2537db887,138,2784,17,Itaguatins,Tocantins,TO
+649cbab755516ad2537db888,0,2809,17,Novo Jardim,Tocantins,TO
+649cbab755516ad2537db889,1,2724,17,Aguiarnópolis,Tocantins,TO
+649cbab755516ad2537db88a,2,2819,17,Peixe,Tocantins,TO
+649cbab755516ad2537db88b,3,2820,17,Pequizeiro,Tocantins,TO
+649cbab755516ad2537db88c,4,2821,17,Pindorama do Tocantins,Tocantins,TO
+649cbab755516ad2537db88d,5,2822,17,Piraquê,Tocantins,TO
+649cbab755516ad2537db88e,6,2823,17,Pium,Tocantins,TO
+649cbab755516ad2537db88f,7,2824,17,Ponte Alta do Bom Jesus,Tocantins,TO
+649cbab755516ad2537db890,8,2825,17,Ponte Alta do Tocantins,Tocantins,TO
+649cbab755516ad2537db891,9,2826,17,Porto Alegre do Tocantins,Tocantins,TO
+649cbab755516ad2537db892,10,2827,17,Porto Nacional,Tocantins,TO
+649cbab755516ad2537db893,11,2828,17,Praia Norte,Tocantins,TO
+649cbab755516ad2537db894,12,2829,17,Presidente Kennedy,Tocantins,TO
+649cbab755516ad2537db895,13,2830,17,Pugmil,Tocantins,TO
+649cbab755516ad2537db896,14,2831,17,Recursolândia,Tocantins,TO
+649cbab755516ad2537db897,15,2832,17,Riachinho,Tocantins,TO
+649cbab755516ad2537db898,16,2818,17,Pedro Afonso,Tocantins,TO
+649cbab755516ad2537db899,17,2833,17,Rio da Conceição,Tocantins,TO
+649cbab755516ad2537db89a,18,2835,17,Rio Sono,Tocantins,TO
+649cbab755516ad2537db89b,19,2836,17,Sampaio,Tocantins,TO
+649cbab755516ad2537db89c,20,2837,17,Sandolândia,Tocantins,TO
+649cbab755516ad2537db89d,21,2838,17,Santa Fé do Araguaia,Tocantins,TO
+649cbab755516ad2537db89e,22,2839,17,Santa Maria do Tocantins,Tocantins,TO
+649cbab755516ad2537db89f,23,2840,17,Santa Rita do Tocantins,Tocantins,TO
+649cbab755516ad2537db8a0,24,2841,17,Santa Rosa do Tocantins,Tocantins,TO
+649cbab755516ad2537db8a1,25,2842,17,Santa Tereza do Tocantins,Tocantins,TO
+649cbab755516ad2537db8a2,26,2843,17,Santa Terezinha do Tocantins,Tocantins,TO
+649cbab755516ad2537db8a3,27,2844,17,São Bento do Tocantins,Tocantins,TO
+649cbab755516ad2537db8a4,28,2845,17,São Félix do Tocantins,Tocantins,TO
+649cbab755516ad2537db8a5,29,2846,17,São Miguel do Tocantins,Tocantins,TO
+649cbab755516ad2537db8a6,30,2847,17,São Salvador do Tocantins,Tocantins,TO
+649cbab755516ad2537db8a7,31,2848,17,São Sebastião do Tocantins,Tocantins,TO
+649cbab755516ad2537db8a8,32,2834,17,Rio dos Bois,Tocantins,TO
+649cbab755516ad2537db8a9,33,2817,17,Pau D'Arco,Tocantins,TO
+649cbab755516ad2537db8aa,34,2816,17,Paranã,Tocantins,TO
+649cbab755516ad2537db8ab,35,2815,17,Paraíso do Tocantins,Tocantins,TO
+649cbab755516ad2537db8ac,36,2808,17,Novo Alegre,Tocantins,TO
+649cbab755516ad2537db8ad,37,2807,17,Novo Acordo,Tocantins,TO
+649cbab755516ad2537db8ae,38,2806,17,Nova Rosalândia,Tocantins,TO
+649cbab755516ad2537db8af,39,2805,17,Nova Olinda,Tocantins,TO
+649cbab755516ad2537db8b0,40,2804,17,Nazaré,Tocantins,TO
+649cbab755516ad2537db8b1,41,2803,17,Natividade,Tocantins,TO
+649cbab755516ad2537db8b2,42,2802,17,Muricilândia,Tocantins,TO
+649cbab755516ad2537db8b3,43,2801,17,Monte Santo do Tocantins,Tocantins,TO
+649cbab755516ad2537db8b4,44,2800,17,Monte do Carmo,Tocantins,TO
+649cbab755516ad2537db8b5,45,2799,17,Miranorte,Tocantins,TO
+649cbab755516ad2537db8b6,46,2798,17,Miracema do Tocantins,Tocantins,TO
+649cbab755516ad2537db8b7,47,2797,17,Maurilândia do Tocantins,Tocantins,TO
+649cbab755516ad2537db8b8,48,2796,17,Mateiros,Tocantins,TO
+649cbab755516ad2537db8b9,49,2795,17,Marianópolis do Tocantins,Tocantins,TO
+649cbab755516ad2537db8ba,50,2794,17,Luzinópolis,Tocantins,TO
+649cbab755516ad2537db8bb,51,2793,17,Lizarda,Tocantins,TO
+649cbab755516ad2537db8bc,52,2792,17,Lavandeira,Tocantins,TO
+649cbab755516ad2537db8bd,53,2814,17,Palmeirópolis,Tocantins,TO

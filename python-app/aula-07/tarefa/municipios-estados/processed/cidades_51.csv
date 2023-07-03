@@ -1,0 +1,101 @@
+_id,index,Unnamed: 0,Codigo_UF,Municipios,Estado,uf
+649cbd3955516ad2537dc4e8,2,1014,31,Sardoá,Minas Gerais,MG
+649cbd3955516ad2537dc4e9,3,1013,31,Sapucaí-Mirim,Minas Gerais,MG
+649cbd3955516ad2537dc4ea,4,1012,31,São Vicente de Minas,Minas Gerais,MG
+649cbd3955516ad2537dc4eb,5,1011,31,São Tomás de Aquino,Minas Gerais,MG
+649cbd3955516ad2537dc4ec,6,1009,31,São Thomé das Letras,Minas Gerais,MG
+649cbd3955516ad2537dc4ed,7,1017,31,Senador Amaral,Minas Gerais,MG
+649cbd3955516ad2537dc4ee,8,1008,31,São Sebastião do Rio Verde,Minas Gerais,MG
+649cbd3955516ad2537dc4ef,9,1007,31,São Sebastião do Rio Preto,Minas Gerais,MG
+649cbd3955516ad2537dc4f0,10,1006,31,São Sebastião do Paraíso,Minas Gerais,MG
+649cbd3955516ad2537dc4f1,11,1005,31,São Sebastião do Oeste,Minas Gerais,MG
+649cbd3955516ad2537dc4f2,12,1010,31,São Tiago,Minas Gerais,MG
+649cbd3955516ad2537dc4f3,13,1018,31,Senador Cortes,Minas Gerais,MG
+649cbd3955516ad2537dc4f4,14,1021,31,Senador Modestino Gonçalves,Minas Gerais,MG
+649cbd3955516ad2537dc4f5,15,1020,31,Senador José Bento,Minas Gerais,MG
+649cbd3955516ad2537dc4f6,16,1028,31,Serra da Saudade,Minas Gerais,MG
+649cbd3955516ad2537dc4f7,17,1022,31,Senhora de Oliveira,Minas Gerais,MG
+649cbd3955516ad2537dc4f8,18,1023,31,Senhora do Porto,Minas Gerais,MG
+649cbd3955516ad2537dc4f9,19,1024,31,Senhora dos Remédios,Minas Gerais,MG
+649cbd3955516ad2537dc4fa,20,1004,31,São Sebastião do Maranhão,Minas Gerais,MG
+649cbd3955516ad2537dc4fb,21,1026,31,Seritinga,Minas Gerais,MG
+649cbd3955516ad2537dc4fc,22,1027,31,Serra Azul de Minas,Minas Gerais,MG
+649cbd3955516ad2537dc4fd,23,1033,31,Serranos,Minas Gerais,MG
+649cbd3955516ad2537dc4fe,24,1032,31,Serranópolis de Minas,Minas Gerais,MG
+649cbd3955516ad2537dc4ff,25,1031,31,Serrania,Minas Gerais,MG
+649cbd3955516ad2537dc500,26,1030,31,Serra dos Aimorés,Minas Gerais,MG
+649cbd3955516ad2537dc501,27,1029,31,Serra do Salitre,Minas Gerais,MG
+649cbd3955516ad2537dc502,28,1019,31,Senador Firmino,Minas Gerais,MG
+649cbd3955516ad2537dc503,29,1025,31,Sericita,Minas Gerais,MG
+649cbd3955516ad2537dc504,30,979,31,São João do Oriente,Minas Gerais,MG
+649cbd3955516ad2537dc505,31,1001,31,São Sebastião da Bela Vista,Minas Gerais,MG
+649cbd3955516ad2537dc506,32,974,31,São João da Ponte,Minas Gerais,MG
+649cbd3955516ad2537dc507,33,973,31,São João da Mata,Minas Gerais,MG
+649cbd3955516ad2537dc508,34,972,31,São João da Lagoa,Minas Gerais,MG
+649cbd3955516ad2537dc509,35,971,31,São João Batista do Glória,Minas Gerais,MG
+649cbd3955516ad2537dc50a,36,970,31,São Gotardo,Minas Gerais,MG
+649cbd3955516ad2537dc50b,37,969,31,São Gonçalo do Sapucaí,Minas Gerais,MG
+649cbd3955516ad2537dc50c,38,968,31,São Gonçalo do Rio Preto,Minas Gerais,MG
+649cbd3955516ad2537dc50d,39,967,31,São Gonçalo do Rio Abaixo,Minas Gerais,MG
+649cbd3955516ad2537dc50e,40,966,31,São Gonçalo do Pará,Minas Gerais,MG
+649cbd3955516ad2537dc50f,41,975,31,São João das Missões,Minas Gerais,MG
+649cbd3955516ad2537dc510,42,965,31,São Gonçalo do Abaeté,Minas Gerais,MG
+649cbd3955516ad2537dc511,43,963,31,São Geraldo da Piedade,Minas Gerais,MG
+649cbd3955516ad2537dc512,44,1034,31,Serro,Minas Gerais,MG
+649cbd3955516ad2537dc513,45,1035,31,Sete Lagoas,Minas Gerais,MG
+649cbd3955516ad2537dc514,46,1036,31,Setubinha,Minas Gerais,MG
+649cbd3955516ad2537dc515,47,1037,31,Silveirânia,Minas Gerais,MG
+649cbd3955516ad2537dc516,48,1038,31,Silvianópolis,Minas Gerais,MG
+649cbd3955516ad2537dc517,49,1039,31,Simão Pereira,Minas Gerais,MG
+649cbd3955516ad2537dc518,50,1040,31,Simonésia,Minas Gerais,MG
+649cbd3955516ad2537dc519,51,1041,31,Sobrália,Minas Gerais,MG
+649cbd3955516ad2537dc51a,52,964,31,São Geraldo do Baixio,Minas Gerais,MG
+649cbd3955516ad2537dc51b,53,976,31,São João del Rei,Minas Gerais,MG
+649cbd3955516ad2537dc51c,54,977,31,São João do Manhuaçu,Minas Gerais,MG
+649cbd3955516ad2537dc51d,55,978,31,São João do Manteninha,Minas Gerais,MG
+649cbd3955516ad2537dc51e,56,1000,31,São Roque de Minas,Minas Gerais,MG
+649cbd3955516ad2537dc51f,57,999,31,São Romão,Minas Gerais,MG
+649cbd3955516ad2537dc520,58,998,31,São Pedro dos Ferros,Minas Gerais,MG
+649cbd3955516ad2537dc521,59,997,31,São Pedro do Suaçuí,Minas Gerais,MG
+649cbd3955516ad2537dc522,60,996,31,São Pedro da União,Minas Gerais,MG
+649cbd3955516ad2537dc523,61,995,31,São Miguel do Anta,Minas Gerais,MG
+649cbd3955516ad2537dc524,62,994,31,São Lourenço,Minas Gerais,MG
+649cbd3955516ad2537dc525,63,993,31,São José do Mantimento,Minas Gerais,MG
+649cbd3955516ad2537dc526,64,992,31,São José do Jacuri,Minas Gerais,MG
+649cbd3955516ad2537dc527,65,991,31,São José do Goiabal,Minas Gerais,MG
+649cbd3955516ad2537dc528,66,990,31,São José do Divino,Minas Gerais,MG
+649cbd3955516ad2537dc529,67,989,31,São José do Alegre,Minas Gerais,MG
+649cbd3955516ad2537dc52a,68,988,31,São José da Varginha,Minas Gerais,MG
+649cbd3955516ad2537dc52b,69,987,31,São José da Safira,Minas Gerais,MG
+649cbd3955516ad2537dc52c,70,986,31,São José da Lapa,Minas Gerais,MG
+649cbd3955516ad2537dc52d,71,985,31,São José da Barra,Minas Gerais,MG
+649cbd3955516ad2537dc52e,72,984,31,São Joaquim de Bicas,Minas Gerais,MG
+649cbd3955516ad2537dc52f,73,983,31,São João Nepomuceno,Minas Gerais,MG
+649cbd3955516ad2537dc530,74,982,31,São João Evangelista,Minas Gerais,MG
+649cbd3955516ad2537dc531,75,981,31,São João do Paraíso,Minas Gerais,MG
+649cbd3955516ad2537dc532,76,980,31,São João do Pacuí,Minas Gerais,MG
+649cbd3955516ad2537dc533,77,1002,31,São Sebastião da Vargem Alegre,Minas Gerais,MG
+649cbd3955516ad2537dc534,78,1003,31,São Sebastião do Anta,Minas Gerais,MG
+649cbd3955516ad2537dc535,79,443,31,Confins,Minas Gerais,MG
+649cbd3955516ad2537dc536,80,1043,31,Tabuleiro,Minas Gerais,MG
+649cbd3955516ad2537dc537,81,408,31,Casa Grande,Minas Gerais,MG
+649cbd3955516ad2537dc538,82,409,31,Cascalho Rico,Minas Gerais,MG
+649cbd3955516ad2537dc539,83,410,31,Cássia,Minas Gerais,MG
+649cbd3955516ad2537dc53a,84,411,31,Cataguases,Minas Gerais,MG
+649cbd3955516ad2537dc53b,85,412,31,Catas Altas,Minas Gerais,MG
+649cbd3955516ad2537dc53c,86,413,31,Catas Altas da Noruega,Minas Gerais,MG
+649cbd3955516ad2537dc53d,87,414,31,Catuji,Minas Gerais,MG
+649cbd3955516ad2537dc53e,88,415,31,Catuti,Minas Gerais,MG
+649cbd3955516ad2537dc53f,89,416,31,Caxambu,Minas Gerais,MG
+649cbd3955516ad2537dc540,90,417,31,Cedro do Abaeté,Minas Gerais,MG
+649cbd3955516ad2537dc541,91,418,31,Central de Minas,Minas Gerais,MG
+649cbd3955516ad2537dc542,92,419,31,Centralina,Minas Gerais,MG
+649cbd3955516ad2537dc543,93,420,31,Chácara,Minas Gerais,MG
+649cbd3955516ad2537dc544,94,421,31,Chalé,Minas Gerais,MG
+649cbd3955516ad2537dc545,95,422,31,Chapada do Norte,Minas Gerais,MG
+649cbd3955516ad2537dc546,96,423,31,Chapada Gaúcha,Minas Gerais,MG
+649cbd3955516ad2537dc547,97,424,31,Chiador,Minas Gerais,MG
+649cbd3955516ad2537dc548,98,425,31,Cipotânea,Minas Gerais,MG
+649cbd3955516ad2537dc549,99,426,31,Claraval,Minas Gerais,MG
+649cbd3955516ad2537dc54a,100,427,31,Claro dos Poções,Minas Gerais,MG
+649cbd3955516ad2537dc54b,101,428,31,Cláudio,Minas Gerais,MG
